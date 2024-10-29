@@ -371,7 +371,7 @@ const Ecommerce = () => {
           <img src={product9} className='md:w-96 h-50' alt="" />
           <div className="mt-8">
             <p className="font-semibold text-lg">Admin Dashboard Project!</p>
-            <p className='text-gray-400'>By Shivraj Gurjar</p>
+            <p className='text-gray-400'>By Shubham Sharma</p>
             <p className="text-sm text-gray-400 mt-8">
                 This Project is made by following Tutorial of Adrian Hajdin from
                 YouTube Channel named Javascript Mastery to learn React Advanced
@@ -379,12 +379,12 @@ const Ecommerce = () => {
                 on button down below
             </p>
             <div className="mt-3 flex flex-col space-y-2">
-              <a href="https://github.com/iamshiv007">
+              <a href="https://github.com/shuubhamcodes">
                 <Button
                  color='white'
                  bgColor={currentColor}
                  borderRadius="10px"
-                 text="Shiv's GitHub"
+                 text="Shubham's GitHub"
                 />
               </a>
             </div>
